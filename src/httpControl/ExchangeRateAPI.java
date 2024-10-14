@@ -12,7 +12,7 @@ import com.google.gson.*;
 
 public class ExchangeRateAPI {
 
-  private static final String API_KEY = "41fb87d384f9f437e44fd081";
+  private static final String API_KEY = "API_Key";
   private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
   public ApiResponse apiResponse;
 
